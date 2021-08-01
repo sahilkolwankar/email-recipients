@@ -5,7 +5,7 @@ This applet is built with **React**, **TypeScript**, and **CSS Modules**
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-www.google.com
+https://email-recipients.herokuapp.com/
 
 ## Available Scripts
 
